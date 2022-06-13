@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/iceCreamShop/static/css/main.045af641.css",
+    "main.js": "/iceCreamShop/static/js/main.e1361e94.js",
+    "static/js/787.660d5990.chunk.js": "/iceCreamShop/static/js/787.660d5990.chunk.js",
+    "static/media/iceCreamOrder.png": "/iceCreamShop/static/media/iceCreamOrder.cc3c55dbbc5065c48db7.png",
+    "static/media/IceCreamHomePage.jpg": "/iceCreamShop/static/media/IceCreamHomePage.3aa3f950f3340c639cf9.jpg",
+    "static/media/cart.png": "/iceCreamShop/static/media/cart.eca5ee08f37494f3f691.png",
+    "index.html": "/iceCreamShop/index.html",
+    "main.045af641.css.map": "/iceCreamShop/static/css/main.045af641.css.map",
+    "main.e1361e94.js.map": "/iceCreamShop/static/js/main.e1361e94.js.map",
+    "787.660d5990.chunk.js.map": "/iceCreamShop/static/js/787.660d5990.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.045af641.css",
+    "static/js/main.e1361e94.js"
+  ]
+}
