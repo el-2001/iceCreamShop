@@ -1,0 +1,10 @@
+.payment-window{
+    width: 800px; 
+    
+    margin: 200px auto;
+    background-color: aliceblue;
+    border: black solid 5px;
+}
+.payment-window Link{
+    decoration: none;
+}

@@ -1,0 +1,27 @@
+.mainNavbar{
+    position: sticky;
+    top: 0;
+}
+.mainNavbar ul{
+   
+    
+    background-color: white;
+    display: flex; 
+    list-style-type: none;
+    justify-content: right;
+    align-items: center;
+  
+    border: white solid 10px;
+}
+
+.mainNavbar ul .Link{
+    display: flex;
+    align-items: center;
+    width: 10ch;
+    height: 50px;
+    color: black;
+    font-size: 1.2rem;
+    text-decoration: none;
+    margin-right: 100px;
+
+}
